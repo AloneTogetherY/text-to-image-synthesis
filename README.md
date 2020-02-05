@@ -3,11 +3,7 @@
 I combine the GAN-CLS by Reed et al. [1] and the MS-GAN by Mao et al. [2] and experiment with a bird-dataset
 
 
-<img src="https://github.com/Yoan-D/visualizing-suicide-data/blob/master/readme_images/gan-cls.png" width="750" class="center">
-
-
-Image captions are from https://github.com/hanzhanggit/StackGAN/tree/master/Data. 
-I used the text_c10 folder to create my own sentence embeddings with word2vec
+<img src="https://github.com/Yoan-D/exploring-text-to-image-synthesis-with-conditional-GANs/blob/master/readme_images/gan-cls.png" width="250" class="center">
 
 
 #### References
