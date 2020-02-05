@@ -3,7 +3,7 @@
 I combine the GAN-CLS by Reed et al. [1] and the MS-GAN by Mao et al. [2] and experiment with a bird-dataset
 
 
-<img src="https://github.com/Yoan-D/exploring-text-to-image-synthesis-with-conditional-GANs/blob/master/readme_images/gan-cls-ms-gan.png" width="250" align="center">
+<img src="https://github.com/Yoan-D/exploring-text-to-image-synthesis-with-conditional-GANs/blob/master/readme_images/gan-cls-ms-gan.png" width="550" align="center">
 
 
 #### References
