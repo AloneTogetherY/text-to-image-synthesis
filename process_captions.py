@@ -27,7 +27,6 @@ def create_final_csv():
     print(images.head())
     for subdir, dirs, files in os.walk(rootdir):
         for file in files:
-            # print os.path.join(subdir, file)
             filepath = subdir + os.sep + file
             if filepath.endswith(".txt"):
                 with open(filepath) as f:
