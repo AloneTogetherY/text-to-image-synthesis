@@ -21,7 +21,7 @@ Most of the synthesized images do depict plausible colors and shapes of birds; h
 
 <p align="center">
 
-<img src="https://github.com/Yoan-D/exploring-text-to-image-synthesis-with-conditional-GANs/blob/master/readme_images/screenshots.png" width="550">
+<img src="https://github.com/Yoan-D/exploring-text-to-image-synthesis-with-conditional-GANs/blob/master/readme_images/screenshots.png" width="650">
 </p>
 
 <p align="center">
