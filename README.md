@@ -16,6 +16,9 @@ I combine the GAN-CLS by Reed et al. [1] and the MS-GAN by Mao et al. [2] and ex
 6. Run code snippets in Google Colab.
 
 ## Results
+
+Most of the synthesized images do depict plausible colors and shapes of birds; however, the GAN did have some minor mode collapse problems when generating images based on made up captions as seen below.
+
 <p align="center">
 
 <img src="https://github.com/Yoan-D/exploring-text-to-image-synthesis-with-conditional-GANs/blob/master/readme_images/screenshots.png" width="550">
@@ -32,6 +35,7 @@ I combine the GAN-CLS by Reed et al. [1] and the MS-GAN by Mao et al. [2] and ex
 <img src="https://github.com/Yoan-D/exploring-text-to-image-synthesis-with-conditional-GANs/blob/master/readme_images/yellow_birds.png" width="450">
 
 </p>
+
 
 ### References
 [1] Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. Generative adversarial text-to-image synthesis. In Proceedings of The 33rd International Conference on Machine Learning, 2016. <br />
