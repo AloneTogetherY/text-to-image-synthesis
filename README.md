@@ -37,6 +37,14 @@ Most of the synthesized images do depict plausible colors and shapes of birds; h
 </p>
 
 
+<p align="center">
+
+<img src="https://github.com/Yoan-D/exploring-text-to-image-synthesis-with-conditional-GANs/blob/master/readme_images/interpolations.png" width="650">
+
+</p>
+
+
+
 ### References
 [1] Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. Generative adversarial text-to-image synthesis. In Proceedings of The 33rd International Conference on Machine Learning, 2016. <br />
 [2] Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Siwei Ma, and Ming-Hsuan Yang. Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis, IEEE Conference on Computer Vision and Pattern Recognition. 2019.
