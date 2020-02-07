@@ -499,7 +499,7 @@ def generate_latent_points(latent_dim, n_samples, interpolate = False):
 
     return [x_input, text_captions]
 
-gen_model = tf.keras.models.load_model('/content/drive/My Drive/146stage_new_gan_animal_model_120.h5')
+gen_model = tf.keras.models.load_model('/content/drive/My Drive/bird_model.h5')
 
 for i in range(40):
   generate_images(gen_model, generate_latent_points(100, 9))
