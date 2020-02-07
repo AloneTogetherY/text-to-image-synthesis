@@ -12,7 +12,7 @@ I combine the GAN-CLS by Reed et al. [1] and the MS-GAN by Mao et al. [2] and ex
 2. Run ```python process_images.py``` to resize and normalize the images and generate numpy arrays.
 3. Run ```python process_captions.py``` to generate sentence embeddings for the captions.
 4. Upload the generated images vectors, sentence vectors and pretrained word2vec model to a Google Drive account.
-5. Load data into jupyter notebook in Google Colab.
+5. Import the jupyter notebook Text2Image_GAN_MS.ipynb Google Colab and load the data.
 6. Run code snippets in Google Colab.
 
 ## Results
