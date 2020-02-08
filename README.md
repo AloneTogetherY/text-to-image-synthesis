@@ -1,4 +1,4 @@
-# Exploring GAN-CLS and MS-GAN with a bird-dataset
+# Exploring GAN-CLS and MSGAN with a bird-dataset
 
 I combine the GAN-CLS by Reed et al. [1] and the MS-GAN by Mao et al. [2] and experiment with the caltech bird-dataset. I experimented with the GAN architecture proposed by Ledig et al [3].
 
