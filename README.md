@@ -1,6 +1,6 @@
 # Exploring GAN-CLS and MSGAN with a bird-dataset
 
-I combine the GAN-CLS by Reed et al. [1] and the MS-GAN by Mao et al. [2] and experiment with the caltech bird-dataset. I experimented with the GAN architecture proposed by Ledig et al [3].
+I combine the GAN-CLS algorithm by Reed et al. [1] and the MS-GAN regulation term by Mao et al. [2] and experiment with the caltech bird-dataset. I experimented with the GAN architecture proposed by Ledig et al [3].
 
 <p align="center">
 
